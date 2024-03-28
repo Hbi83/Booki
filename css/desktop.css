@@ -217,6 +217,10 @@ header ul li {
     width: 65%;
 }
 
+.hebergements .hebergements-title {
+    margin-bottom: 33px;
+}
+
 .hebergements-cards {
     display: flex;
     flex-direction: row;
