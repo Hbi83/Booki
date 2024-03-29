@@ -164,9 +164,11 @@
     .bloc-footer {
         flex-direction: column;
         height: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
     }   
 
     .section-footer {
-        width: 100%;
+        width: 90%;
     }
 }
